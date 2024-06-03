@@ -1,0 +1,2 @@
+# [frontendmentor] qr-code-component
+ 
